@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/nirajtechnical/static/js/main.5e51bd37.chunk.js",
+    "main.js.map": "/nirajtechnical/static/js/main.5e51bd37.chunk.js.map",
+    "runtime-main.js": "/nirajtechnical/static/js/runtime-main.54b02358.js",
+    "runtime-main.js.map": "/nirajtechnical/static/js/runtime-main.54b02358.js.map",
+    "static/js/2.c6fd1aa9.chunk.js": "/nirajtechnical/static/js/2.c6fd1aa9.chunk.js",
+    "static/js/2.c6fd1aa9.chunk.js.map": "/nirajtechnical/static/js/2.c6fd1aa9.chunk.js.map",
+    "index.html": "/nirajtechnical/index.html",
+    "precache-manifest.7b81cecc050b5bd0a5f43767ec44ac5d.js": "/nirajtechnical/precache-manifest.7b81cecc050b5bd0a5f43767ec44ac5d.js",
+    "service-worker.js": "/nirajtechnical/service-worker.js",
+    "static/js/2.c6fd1aa9.chunk.js.LICENSE.txt": "/nirajtechnical/static/js/2.c6fd1aa9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54b02358.js",
+    "static/js/2.c6fd1aa9.chunk.js",
+    "static/js/main.5e51bd37.chunk.js"
+  ]
+}
